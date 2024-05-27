@@ -3,7 +3,7 @@ d3-103
 
 ## Live Demo
 
-* https://mitchallen.github.io/d3-1-3/
+* https://mitchallen.github.io/d3-103/
 
 ## Usage
 
